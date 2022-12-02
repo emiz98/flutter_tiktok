@@ -1,16 +1,38 @@
-# flutter_tiktok
+## Tiktok Mobile
 
-A new Flutter project.
+![cover](cover.png)
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Build Process](#build-process)
+- [Tech Stack](#tech-stack)
 
-A few resources to get you started if this is your first Flutter project:
+<br/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Introduction
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TikTok, known in China as Douyin, is a short-form video hosting service owned by the Chinese company ByteDance.
+
+This is a Tiktok mobile app which was build using flutter technology.
+
+## Features
+
+🚀 Play/Pause Videos
+
+## Build Process
+
+- Clone or download the repo
+- `pub get` to install dependencies
+- `flutter run` to run the application
+
+## Tech Stack
+
+<p float="left">
+    <img src="https://cdn.sanity.io/images/1z5g6za5/production/a093a4d518fd1e3f6d57b8a9ce4b9dc1a664c0aa-64x64.png?w=2000&fit=max&auto=format" width="60"  style="padding-right:20px;margin-right:5px"/>
+</p>
+
+## Project Goals & Outcomes
+
+✔️ Mastering Flutter
