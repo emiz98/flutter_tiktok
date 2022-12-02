@@ -316,4 +316,19 @@ packages:
     source: hosted
     version: "0.2.2"
   xml:
-    dependency: transi
+    dependency: transitive
+    description:
+      name: xml
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "6.1.0"
+  yaml:
+    dependency: transitive
+    description:
+      name: yaml
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.1.1"
+sdks:
+  dart: ">=2.17.0 <3.0.0"
+  flutter: ">=2.10.0"
